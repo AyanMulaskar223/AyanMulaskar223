@@ -1,11 +1,13 @@
-### Hi, I’m Ayan Mulaskar 👋
-**Analytics Engineer | Snowflake · dbt Core · Power BI · Python**
+<h1 align="center">Hi, I'm Ayan Mulaskar 👋</h1>
+<h3 align="center">Data, BI & Analytics Engineering | Snowflake · dbt Core · Power BI · Python</h3>
 
-I build enterprise-grade analytics platforms that bridge the gap between raw data and executive action. I specialize in the Modern Data Stack, designing governed, FinOps-optimized systems that eliminate metric chaos and drive measurable business ROI.
+<p align="center">
+  I build <strong>enterprise-grade analytics platforms</strong> that bridge the gap between raw data and executive action. Using the Modern Data Stack, I design governed, FinOps-optimized systems that expose revenue leaks and drive measurable ROI.
+</p>
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/Snowflake-Cloud_Data_Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt_Core-Transformation-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
@@ -19,25 +21,35 @@ I build enterprise-grade analytics platforms that bridge the gap between raw dat
 
 ### 🚀 Featured Enterprise Projects
 
-#### 1️⃣ [Olist Modern Data Platform & Analytics Engineering](https://github.com/AyanMulaskar223/olist-modern-analytics-platform)
-* **What it is:** An end-to-end e-commerce platform mapping 1.55M+ records from Azure to Power BI.
-* **Tech Stack:** Snowflake, dbt, Power BI, Azure, GitHub Actions.
-* **Impact:** Engineered a Kimball Medallion architecture with 550+ CI tests and strict data contracts, reducing query latency by 93% and delivering a zero-drift Semantic Model.
+#### 🏗️ [Olist Modern Data Platform & Analytics Engineering](https://github.com/AyanMulaskar223/olist-modern-analytics-platform)
+* **Architecture:** Cloud-native Kimball warehouse (Snowflake/dbt) mapping 1.55M+ records from Azure to Power BI.
+* **DataOps:** Enforced 550+ automated CI tests, strict data contracts, and ephemeral schemas to guarantee zero-break deployments.
+* **Impact:** Delivered a Self-Service 2.0 semantic model with dynamic RLS, reducing compute costs by 42% and query latency from 45s to <1.2s.
 
-#### 2️⃣ [Logistics Root-Cause Diagnostics](https://github.com/AyanMulaskar223/ecommerce-logistics-diagnostics)
-* **What it is:** A fail-loud, memory-optimized Python pipeline diagnosing a national logistics crisis.
-* **Tech Stack:** Python, Pandas, PyArrow, Pandera, Snowflake.
-* **Impact:** Isolated a structural 14-day SLA failure and mapped the exact threshold of customer value destruction, surfacing **R$ 1.13M in at-risk revenue** for executive recovery.
+#### 🔍 [Logistics Root-Cause Diagnostics](https://github.com/AyanMulaskar223/ecommerce-logistics-diagnostics)
+* **Architecture:** Fail-loud, memory-optimized Python FinOps pipeline leveraging Pandas and PyArrow.
+* **Data Governance:** Consumed the immutable Snowflake `prod` schema via Pandera data contracts for zero-disruption analysis.
+* **Impact:** Isolated a structural 14-day SLA failure and mathematically mapped CLV destruction, surfacing **R$ 1.13M in at-risk revenue** for executive recovery.
+
+---
+
+### 🎯 Core Competencies
+* ⭐ **Kimball Dimensional Modeling** | ⭐ **Governed Semantic Models**
+* ⭐ **DataOps & CI/CD Pipelines** | ⭐ **E-commerce & Logistics Analytics**
 
 ---
 
 ### 🏆 Professional Certifications
-* **SnowPro Core Certification** (Snowflake)
-* **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
+* **SnowPro Core Certification**
+* **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 * **MongoDB Associate Python Developer**
 * **GitHub Foundations Certification**
+* **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
 ---
 
 ### 📫 Let's Connect
-**[View My Full Business Portfolio on Notion](YOUR_NOTION_LINK_HERE)** | **[Connect with me on LinkedIn](YOUR_LINKEDIN_LINK_HERE)**
+<p align="left">
+  <a href="YOUR_NOTION_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/View_My_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
