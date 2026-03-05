@@ -1,6 +1,6 @@
 # Hi, I'm Ayan Mulaskar 👋
 
-**Analytics Engineer | Modern Data Stack Architect | DataOps & FinOps Advocate**
+**Analytics Engineer | Modern Data Stack | DataOps & FinOps Advocate**
 
 # 🚀 About Me
 
@@ -8,10 +8,15 @@ I build **enterprise-grade analytics platforms** that transform raw data into re
 
 My work focuses on:
 - 🏗️ **Analytics Engineering:** Designing Kimball Star Schemas & Medallion architectures using **Snowflake + dbt Core**.
+  
 - 📊 **Governed BI:** Building version-controlled (PBIP/TMDL) **Power BI semantic models** optimized for sub-second rendering.
+  
 - ⚙️ **DataOps & Quality:** Enforcing strict data contracts and **CI pipelines** (GitHub Actions) for zero-break deployments.
+  
 - 🐍 **Root-Cause Diagnostics:** Writing memory-optimized (PyArrow/Pandera) **Python** pipelines to mathematically isolate operational bottlenecks.
+  
 - 💡 **ROI Focus:** I don't just write SQL—I focus on delivering **business insights, not just dashboards.**
+  
 ### 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/ayan-mulaskar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -55,9 +60,13 @@ An enterprise-grade, governed analytics platform built on 1.55M+ Brazilian e-com
 
 ### 🛠️ Key Capabilities Demonstrated:
 - **Cloud Data Architecture:** Engineered a Kimball dimensional data warehouse (Star Schema) in **Snowflake** using **dbt**, applying a "Shift-Left" compute strategy for optimal downstream BI performance.
+ 
 - **DataOps & Zero-Break CI/CD:** Built a rigorous pipeline via **GitHub Actions** with ephemeral PR schemas, enforcing 100% test coverage (559 tests), SQL linting, and strict **dbt Data Contracts**.
+  
 - **Governed Semantic Layer:** Deployed a version-controlled **Power BI** semantic model (PBIP/TMDL) featuring 50+ pre-certified DAX measures and dynamic Row-Level Security (RLS) via a decoupled Bridge Table.
+  
 - **"Trust, Don't Trash" Quality Framework:** Designed a dual-metric data quality engine that flags dirty data upstream rather than deleting it, maintaining perfect financial alignment.
+  
 
 ### 📊 Business & Engineering Results:
 - ⚡ **93% Faster Queries:** Reduced reporting latency from 45+ seconds (Direct SQL) to **<1.2s dashboard rendering** (VertiPaq Import).
@@ -80,13 +89,16 @@ A fail-loud, memory-optimized Python diagnostic pipeline designed to mathematica
   </a>
 </p>
 
-![Diagnostic Pipeline Split View](YOUR_MERGED_IMAGE_URL_HERE)
-*(Bridging Engineering & Strategy: Left - Strict Pandera runtime data contracts & MemoryOps downcasting. Right - Vectorized Seaborn visualization exposing the 14-day SLA churn cliff.)*
+![Diagnostic Pipeline Split View](https://github.com/AyanMulaskar223/ecommerce-logistics-diagnostics/blob/main/assets/architecture_diagram.png)
+
 
 ### 🛠️ Key Capabilities Demonstrated:
 - **MemoryOps & FinOps Architecture:** Engineered a zero-credit EDA pipeline by caching a Snowflake OBT locally. Slashed local memory usage by **44%** utilizing **PyArrow** columnar storage and three-pass data downcasting.
+  
 - **Fail-Loud Data Contracts:** Implemented a 4-layer data quality gate using **Pandera** runtime validation to enforce schema integrity, seamlessly isolating 1,600+ "ghost deliveries" without dropping the audit trail.
+  
 - **Vectorized Performance:** Enforced a strict **zero `.apply()` policy** via CI linting (Ruff). Replaced slow row-by-row iteration with 100% vectorized Pandas operations, achieving up to 100x faster transformations.
+  
 - **Modular DRY Engineering:** Replaced 300+ lines of messy notebook wrangling with a modular, 1,400-line typed Python library (`src/`). Ensured 100% environment reproducibility across machines using `uv.lock`.
 
 ### 📊 Business & Engineering Results:
@@ -117,7 +129,7 @@ I validate my technical expertise through rigorous, industry-recognised certific
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AyanMulaskar-5148/53FDAFA544D7E0C9?sharingId=D81FD61C059160D2" target="_blank">
     <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft DP-900"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/ayanmulaskar-5148/credentials/87d8d1959dd5e3cd?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
     <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AI-900"/>
   </a>
 
@@ -147,9 +159,14 @@ I validate my technical expertise through rigorous, industry-recognised certific
 I treat data as software. My projects are governed by four core architectural principles:
 
 1. 🛡️ **Trust, Don't Trash:** I never silently drop bad data. I use upstream boolean flags (e.g., `is_verified = 1`) to isolate dirty records. This guarantees 100% financial reconciliation with source systems while quantifying the exact "Cost of Poor Quality" for business operations.
+   
 2. 🏎️ **Shift-Left Compute:** Complex math (date logic, string parsing, window functions) belongs in the Data Warehouse (dbt/Snowflake). BI tools (Power BI/DAX) should only perform light aggregations and visual rendering. This is the secret to sub-second dashboards.
+   
 3. 🧱 **Data Contracts over Hope:** Schemas must fail fast. I use explicit column selection in Power Query and strict data type enforcement in dbt YAML to ensure upstream changes trigger pipeline errors, preventing silent dashboard corruption.
+   
 4. 💰 **DataFinOps by Default:** I optimize ruthlessly for cloud compute costs. I favor incremental materializations (`unique_key`), columnar memory pruning (PyArrow), and X-Small warehouse auto-suspension over brute-force full refreshes.
+
+   
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AyanMulaskar223&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
