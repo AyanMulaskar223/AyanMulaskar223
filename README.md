@@ -23,7 +23,7 @@ My work focuses on:
   <a href="YOUR_NOTION_PORTFOLIO_URl"><img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/></a>
   <a href="mailto:ayanmulaskar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://ayanmulaskar223.github.io/olist-modern-analytics-platform/"><img src="https://img.shields.io/badge/MkDocs_Architecture-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white" alt="MkDocs Site"/></a>
-</p>
+<a href="https://medium.com/@ayanmulaskar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 
 # 💻 Tech Stack
