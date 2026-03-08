@@ -20,7 +20,7 @@ My work focuses on:
 ### 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/ayan-mulaskar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_NOTION_PORTFOLIO_URl"><img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/></a>
+  <a href="https://ayan-data.super.site/"><img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/></a>
   <a href="mailto:ayanmulaskar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://medium.com/@ayanmulaskar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
