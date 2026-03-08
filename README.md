@@ -185,7 +185,7 @@ I am currently exploring **Data & Analytics Engineering** opportunities. Whether
   <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_NOTION_PORTFOLIO_URL_HERE" target="_blank">
+  <a href="https://ayan-data.super.site/" target="_blank">
     <img src="https://img.shields.io/badge/View_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
   </a>
 </p>
