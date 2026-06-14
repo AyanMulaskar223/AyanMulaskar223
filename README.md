@@ -177,7 +177,7 @@ I treat data as software. My projects are governed by four core architectural pr
 
 ## 📫 Let's Connect & Build
 
-I am currently exploring **Data & Analytics Engineering** opportunities. Whether your team needs to untangle a legacy SQL codebase, optimize Snowflake compute costs, or build a governed Power BI semantic model from scratch—let's talk. 
+I am currently exploring **Data Analyst & Power BI Developer** opportunities. Whether your team needs to untangle messy legacy SQL, architect cloud data models in Snowflake, or build a governed Power BI semantic model from scratch—let's talk. 
 
 <p align="left">
   <a href="mailto:ayanmulaskar@gmail.com">
@@ -186,8 +186,8 @@ I am currently exploring **Data & Analytics Engineering** opportunities. Whether
   <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://ayan-data.super.site/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
+  <a href="https://datawithayan.me" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
