@@ -2,21 +2,18 @@
 
 **Analytics Engineer | Modern Data Stack | DataOps & FinOps Advocate**
 
-# 🚀 About Me
+🚀 About Me
 
-I build **enterprise-grade analytics platforms** that transform raw data into reliable, governed business insights.
+I build enterprise-grade data solutions that transform raw data into reliable, financially reconciled business insights. 
 
 My work focuses on:
-- 🏗️ **Analytics Engineering:** Designing Kimball Star Schemas & Medallion architectures using **Snowflake + dbt Core**.
-  
-- 📊 **Governed BI:** Building version-controlled (PBIP/TMDL) **Power BI semantic models** optimized for sub-second rendering.
-  
-- ⚙️ **DataOps & Quality:** Enforcing strict data contracts and **CI pipelines** (GitHub Actions) for zero-break deployments.
-  
-- 🐍 **Root-Cause Diagnostics:** Writing memory-optimized (PyArrow/Pandera) **Python** pipelines to mathematically isolate operational bottlenecks.
-  
-- 💡 **ROI Focus:** I don't just write SQL—I focus on delivering **business insights, not just dashboards.**
-  
+
+🏗️ **Cloud Data Modeling:** Designing Kimball Star Schemas & Medallion architectures using Snowflake + dbt Core.
+📊 **Governed BI & Semantic Models:** Building version-controlled (PBIP/TMDL) Power BI semantic models optimized for sub-second rendering and 100% Query Folding.
+⚙️ **Version Control & Data Quality:** Enforcing strict data contracts and CI workflows (GitHub Actions) for zero-break deployments and absolute metric accuracy.
+🐍 **Root-Cause Diagnostics:** Writing memory-optimized (PyArrow/Pandera) Python pipelines to mathematically isolate operational bottlenecks.
+💡 **ROI Focus:** I don't just write SQL and build dashboards—I guarantee 100% financial reconciliation and deliver insights that drive executive strategy.
+
 ### 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/ayan-mulaskar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
