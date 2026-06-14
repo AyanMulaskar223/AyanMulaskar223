@@ -9,9 +9,13 @@ I build enterprise-grade data solutions that transform raw data into reliable, f
 My work focuses on:
 
 🏗️ **Cloud Data Modeling:** Designing Kimball Star Schemas & Medallion architectures using Snowflake + dbt Core.
+
 📊 **Governed BI & Semantic Models:** Building version-controlled (PBIP/TMDL) Power BI semantic models optimized for sub-second rendering and 100% Query Folding.
+
 ⚙️ **Version Control & Data Quality:** Enforcing strict data contracts and CI workflows (GitHub Actions) for zero-break deployments and absolute metric accuracy.
+
 🐍 **Root-Cause Diagnostics:** Writing memory-optimized (PyArrow/Pandera) Python pipelines to mathematically isolate operational bottlenecks.
+
 💡 **ROI Focus:** I don't just write SQL and build dashboards—I guarantee 100% financial reconciliation and deliver insights that drive executive strategy.
 
 ### 🌐 Socials
