@@ -177,7 +177,7 @@ I treat data as software. My projects are governed by four core architectural pr
 
 ## 📫 Let's Connect & Build
 
-I am currently exploring **Data Analyst & Power BI Developer** opportunities. Whether your team needs to untangle messy legacy SQL, architect cloud data models in Snowflake, or build a governed Power BI semantic model from scratch—let's talk. 
+I am currently exploring **Data Analyst & Power BI Developer** opportunities. Whether your team needs to untangle messy legacy SQL, architect cloud data models in Snowflake, or build a governed AI-Ready Power BI semantic model from scratch—let's talk. 
 
 <p align="left">
   <a href="mailto:ayanmulaskar@gmail.com">
