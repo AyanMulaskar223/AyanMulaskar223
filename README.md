@@ -61,7 +61,7 @@ An enterprise-grade, governed analytics platform built on 1.55M+ Brazilian e-com
 ### 🛠️ Key Capabilities Demonstrated:
 - **Cloud Data Architecture:** Engineered a Kimball dimensional data warehouse (Star Schema) in **Snowflake** using **dbt**, applying a "Shift-Left" compute strategy for optimal downstream BI performance.
  
-- **DataOps & Zero-Break CI/CD:** Built a rigorous pipeline via **GitHub Actions** with ephemeral PR schemas, enforcing 100% test coverage (559 tests), SQL linting, and strict **dbt Data Contracts**.
+- **DataOps & Zero-Break CI:** Built a rigorous pipeline via **GitHub Actions** with ephemeral PR schemas, enforcing 100% test coverage (559 tests), SQL linting, and strict **dbt Data Contracts**.
   
 - **Governed Semantic Layer:** Deployed a version-controlled **Power BI** semantic model (PBIP/TMDL) featuring 50+ pre-certified DAX measures and dynamic Row-Level Security (RLS) via a decoupled Bridge Table.
   
