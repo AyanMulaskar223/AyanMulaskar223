@@ -1,8 +1,8 @@
 # Hi, I'm Ayan Mulaskar 👋
 
-**Analytics Engineer | Modern Data Stack | DataOps & FinOps Advocate**
+**Power BI Developer & Data Analyst | Microsoft PL-300 & Snowflake Certified | Architecting Sub-Second Dashboards & Governed Analytics Platforms**
 
-🚀 About Me
+# 🚀 About Me
 
 I build enterprise-grade data solutions that transform raw data into reliable, financially reconciled business insights. 
 
@@ -37,7 +37,7 @@ I focus on tools that enable scalable, version-controlled, and tested data platf
 | **🔄 Data Transformation** | <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 | **📊 Business Intelligence** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX-005A9E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tabular_Editor_3-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/PBIP_%2B_TMDL-000000?style=for-the-badge" /> |
 | **🐍 Python & Analytics** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PyArrow-B11B14?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/Pandera-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> |
-| **⚙️ DataOps & CI/CD** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLFluff-252525?style=for-the-badge" /> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" /> <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" /> |
+| **⚙️ DataOps & CI** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLFluff-252525?style=for-the-badge" /> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" /> <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" /> |
 | **🤖 AI, Tooling & Docs** | <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
 
 # 🏆 Featured Project
